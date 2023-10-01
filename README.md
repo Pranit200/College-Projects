@@ -10,7 +10,7 @@
 
    
 # Predictive Analysis of Income using various Attribute
-1.Performed Data Cleaning operations like handeling missing values, encoding categorical variables, and scaling numerical features.
+1. Performed Data Cleaning operations like handeling missing values, encoding categorical variables, and scaling numerical features.
 2. Done Univariate and Bivariate Analysis of the Attributes.
 3. Applied various machine learning algorithms and based on AUC value and accuracy, we came to conclusion that Adaboost was the best model for fitting the data.
 4. Extracted important features which has significant impact on an individual income level.
